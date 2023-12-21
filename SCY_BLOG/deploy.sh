@@ -20,5 +20,5 @@ git commit -m 'deploy'
 git branch -M main
 
 # 如果你想要部署到 https://USERNAME.github.io
-# git push -f git@github.com:cmty256/cmty256.github.io.git main
+# git push -f git@github.com:你的GitHub昵称/你的GitHub昵称.github.io.git main
 git push -f https://github.com/xiaose-code/xiaose-code.github.io.git main

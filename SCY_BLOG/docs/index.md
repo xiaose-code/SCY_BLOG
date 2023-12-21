@@ -2,7 +2,7 @@
 home: true
 heroImage: /img/2.png
 heroText: 霜晨月
-tagline: 时间是最好的浸渍剂，而沉淀是最好的提纯器
+tagline: 欲买桂花同载酒，终不似，少年游。
 bannerBg: none
 actionText: 开始阅读 →
 actionLink: /pages/c5bdd8/

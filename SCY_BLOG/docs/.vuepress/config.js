@@ -80,12 +80,12 @@ module.exports = {
             }
         ],
         ['fulltext-search'], // 全文搜索
-        [
-            'vuepress-baidu-tongji',
-            {
-                hm: 'abcdefghijklmnopqrstuvwxyz123456'
-            }
-        ],
+        // [
+        //     'vuepress-baidu-tongji',
+        //     {
+        //         hm: 'abcdefghijklmnopqrstuvwxyz123456'
+        //     }
+        // ],
         ["@vuepress/medium-zoom"],// 图片点击放大
         [
             "sitemap",
@@ -94,9 +94,9 @@ module.exports = {
             },
 
         ],
-        [
-            'vuepress-plugin-baidu-autopush',
-        ],
+        // [
+        //     'vuepress-plugin-baidu-autopush',
+        // ],
         [
             "feed",
             {

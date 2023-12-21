@@ -13,7 +13,7 @@
   "devDependencies": {
     "@vuepress/plugin-medium-zoom": "^1.9.10",
     "dayjs": "^1.9.7",
-    "vuepress": "^1.9.7",
+    "vuepress": "^1.9.10",
     "vuepress-plugin-baidu-tongji": "^1.0.1",
     "vuepress-plugin-cursor-effects": "^1.1.6",
     "vuepress-plugin-dynamic-title": "^1.0.0",
@@ -25,6 +25,7 @@
     "vuepress-theme-vdoing": "^1.12.8"
   },
   "dependencies": {
+    "vdoing": "^1.0.3",
     "vuepress-plugin-sitemap": "^2.3.1"
   }
 }

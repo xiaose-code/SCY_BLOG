@@ -44,7 +44,9 @@ module.exports = [
       { text: "虚拟机固定 IP 地址", link: "/pages/ee770e/" },
       { text: "随笔（持续更新）", link: "/pages/e472d1/" },
       { text: "VScode 插件 CodeGeeX 使用教程", link: "/pages/411aa4/" },
-      { text: "KylinV10 将项目上传至 Github教程", link: "/pages/0d525d/" }
+      { text: "KylinV10 将项目上传至 Github教程", link: "/pages/0d525d/" },
+      { text: "KylinV10 安装 MySQL 教程（可防踩雷）", link: "/pages/907786/" },
+      { text: "个人博客代码推送教程", link: "/pages/9c4241/" },
     ]
   },
   {

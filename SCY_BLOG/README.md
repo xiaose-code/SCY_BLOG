@@ -1,6 +1,6 @@
 # 博客地址
 
-[https://cmty256.github.io/](https://cmty256.github.io/)
+[https://xiaose-code.github.io/](https://xiaose-code.github.io/)
 
 # Vuepress-blog-template
 

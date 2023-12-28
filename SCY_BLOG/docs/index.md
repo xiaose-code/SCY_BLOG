@@ -2,7 +2,7 @@
 home: true
 heroImage: /img/2.png
 heroText: 霜晨月
-tagline: 欲买桂花同载酒，终不似，少年游。
+tagline: 欲买桂花同载酒，终不似，少年游。🚀
 bannerBg: none
 actionText: 开始阅读 →
 actionLink: /pages/c5bdd8/

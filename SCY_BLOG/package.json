@@ -19,6 +19,7 @@
     "vuepress-plugin-dynamic-title": "^1.0.0",
     "vuepress-plugin-feed": "^0.1.9",
     "vuepress-plugin-fulltext-search": "^2.2.1",
+    "vuepress-plugin-img-lazy": "^1.0.4",
     "vuepress-plugin-one-click-copy": "^1.0.6",
     "vuepress-plugin-reading-time": "^0.1.1",
     "vuepress-plugin-thirdparty-search": "^1.0.2",

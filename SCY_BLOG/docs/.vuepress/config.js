@@ -94,6 +94,9 @@ module.exports = {
             },
 
         ],
+        // 图片懒加载：https://github.com/tolking/vuepress-plugin-img-lazy
+        // 可以使用命令 npm install -D vuepress-plugin-img-lazy 来下载
+        ['img-lazy'],
         // [
         //     'vuepress-plugin-baidu-autopush',
         // ],
@@ -106,5 +109,6 @@ module.exports = {
                 posts_directories: [],
             },
         ],
+
     ],
 }

@@ -46,7 +46,11 @@ module.exports = [
       { text: "VScode 插件 CodeGeeX 使用教程", link: "/pages/411aa4/" },
       { text: "KylinV10 将项目上传至 Github教程", link: "/pages/0d525d/" },
       { text: "KylinV10 安装 MySQL 教程（可防踩雷）", link: "/pages/907786/" },
+      { text: "kylinV10-SP1 安装 QT", link: "/pages/a2d21e/" },
       { text: "个人博客代码推送教程", link: "/pages/9c4241/" },
+      { text: "高并发内存池", link: "/pages/b561cf/" },
+      { text: "USBGUARD 项目编译环境配置", link: "/pages/6ab6d1/" },
+      { text: "Shell 脚本学习笔记", link: "/pages/1ab9a6/" },
     ]
   },
   {
@@ -59,18 +63,19 @@ module.exports = [
       { text: "黑马Vue3", link: "/pages/50e8d3/" },
     ]
   },
-  {
-    text: '项目笔记',
-    items: [
-      // {text: "移动设备管控系统", link: "/pages/67c5c8/"},
-      { text: "ip_file_hook", link: "/pages/08dfe9/" },
-    ]
-  },
+  // {
+  //   text: '项目笔记',
+  //   items: [
+  //     // {text: "移动设备管控系统", link: "/pages/67c5c8/"},
+  //     { text: "ip_file_hook", link: "/pages/08dfe9/" },
+  //   ]
+  // },
   {
     text: '面经',
     items: [
       { text: "虎牙C++技术面经", link: "/pages/d69946/" },
       { text: "金山一面复习", link: "/pages/29251d/" },
+      { text: "完美世界秋招 C++ 游戏开发面经（Cpp部分）", link: "/pages/c7c01f/" },
     ]
   },
   {

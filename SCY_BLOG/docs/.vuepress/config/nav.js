@@ -51,6 +51,9 @@ module.exports = [
       { text: "高并发内存池", link: "/pages/b561cf/" },
       { text: "USBGUARD 项目编译环境配置", link: "/pages/6ab6d1/" },
       { text: "Shell 脚本学习笔记", link: "/pages/1ab9a6/" },
+      { text: "Power_Destory 项目", link: "/pages/883f02/" },
+      { text: "U 盘清除工具编译教程", link: "/pages/479472/"},
+      { text: "Git 创建删除远程分支", link: "/pages/e1081f/"},
     ]
   },
   {

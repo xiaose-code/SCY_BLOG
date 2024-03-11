@@ -39,21 +39,21 @@ module.exports = [
   {
     text: '开发日常',
     items: [
+      { text: "随笔（持续更新）", link: "/pages/e472d1/" },
       { text: "Git知识总结", link: "/pages/71f6ae/" },
+      { text: "Git 创建删除远程分支", link: "/pages/e1081f/"},
       { text: "nvm使用小结", link: "/pages/777b8a/" },
       { text: "虚拟机固定 IP 地址", link: "/pages/ee770e/" },
-      { text: "随笔（持续更新）", link: "/pages/e472d1/" },
+      { text: "Shell 脚本学习笔记", link: "/pages/1ab9a6/" },
       { text: "VScode 插件 CodeGeeX 使用教程", link: "/pages/411aa4/" },
       { text: "KylinV10 将项目上传至 Github教程", link: "/pages/0d525d/" },
       { text: "KylinV10 安装 MySQL 教程（可防踩雷）", link: "/pages/907786/" },
       { text: "kylinV10-SP1 安装 QT", link: "/pages/a2d21e/" },
-      { text: "个人博客代码推送教程", link: "/pages/9c4241/" },
       { text: "高并发内存池", link: "/pages/b561cf/" },
       { text: "USBGUARD 项目编译环境配置", link: "/pages/6ab6d1/" },
-      { text: "Shell 脚本学习笔记", link: "/pages/1ab9a6/" },
       { text: "Power_Destory 项目", link: "/pages/883f02/" },
       { text: "U 盘清除工具编译教程", link: "/pages/479472/"},
-      { text: "Git 创建删除远程分支", link: "/pages/e1081f/"},
+      { text: "个人博客代码推送教程", link: "/pages/9c4241/" },
     ]
   },
   {
